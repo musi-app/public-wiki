@@ -13,19 +13,19 @@ Follow the steps below if your Musi app is noting that it cannot play videos on 
 
 <img src="https://i.imgur.com/QCv0h6c.jpg" height=600 />
 
-2. Tap the "User" icon in the top right corner of the YouTube mobile website.
+2\. Tap the "User" icon in the top right corner of the YouTube mobile website.
 
 <img src="https://i.imgur.com/rxSRQ9y.jpg" height=600 />
 
-3. Tap "Sign in".
+3\. Tap "Sign in".
 
 <img src="https://i.imgur.com/DgrBV9u.jpg" height=600 />
 
-4. Fill in your YouTube account credentials.
+4\. Fill in your YouTube account credentials.
 
 <img src="https://i.imgur.com/orCBWYw.jpg" height=600 />
 
-5. Return to the Musi app and try playing a video. You should typically find that the app now functions properly.
+5\. Return to the Musi app and try playing a video. You should typically find that the app now functions properly.
 
 **Playing a video in YouTube Login**
 
@@ -35,9 +35,9 @@ If you find that you are logged into a YouTube account but your Musi app still w
 
 <img src="https://i.imgur.com/QCv0h6c.jpg" height=600 />
 
-2. Open any video in the YouTube mobile website and play the video. Ensure that the video plays and opens when you play it.
+2\. Open any video in the YouTube mobile website and play the video. Ensure that the video plays and opens when you play it.
 
-3. Return to the Musi app and try playing a video. You should typically find that video playback now works within Musi.
+3\. Return to the Musi app and try playing a video. You should typically find that video playback now works within Musi.
 
 **Check your internet connection**
 
